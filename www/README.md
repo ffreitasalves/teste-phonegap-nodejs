@@ -1,12 +1,12 @@
-# Hello World PhoneGap Application
+# JanKenPon PhoneGap Application
 
-> A Hello World application built with PhoneGap
+> Um aplicativo de Jankenpon feito em phonegap
 
 ## Usage
 
 ### Desktop
 
-In your browser, open the file:
+No seu  browser, abra o arquivo:
 
     /www/index.html
 
